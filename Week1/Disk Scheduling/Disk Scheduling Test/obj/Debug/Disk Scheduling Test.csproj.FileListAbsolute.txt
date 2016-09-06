@@ -1,0 +1,18 @@
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.csprojResolveAssemblyReference.cache
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling Test.dll
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling Test.pdb
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling.exe
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling.pdb
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.dll
+D:\school\Blok 13\DPR\Project\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.pdb
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling Test.dll
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling Test.pdb
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling.exe
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Disk Scheduling.pdb
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.csprojResolveAssemblyReference.cache
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.dll
+D:\school\Blok 13\DPR\DPR\Week1\Disk Scheduling\Disk Scheduling Test\obj\Debug\Disk Scheduling Test.pdb
