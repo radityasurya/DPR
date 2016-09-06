@@ -1,0 +1,18 @@
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.exe.config
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.exe
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.pdb
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.csprojResolveAssemblyReference.cache
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk_Scheduling.Form1.resources
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk_Scheduling.Properties.Resources.resources
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.csproj.GenerateResource.Cache
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.exe
+E:\Fontys\DPR\Week 1\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.pdb
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.exe.config
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.exe
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.pdb
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.exe
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\bin\Debug\Disk Scheduling.pdb
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.csprojResolveAssemblyReference.cache
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk_Scheduling.Form1.resources
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk_Scheduling.Properties.Resources.resources
+D:\FONTYS\DPR\Disk Scheduling\Disk Scheduling\obj\Debug\Disk Scheduling.csproj.GenerateResource.Cache
