@@ -45,17 +45,19 @@ namespace WeatherApplication
             // 
             // tabControl1
             // 
-            this.tabControl1.Location = new System.Drawing.Point(9, 12);
+            this.tabControl1.Location = new System.Drawing.Point(7, 10);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(529, 235);
+            this.tabControl1.Size = new System.Drawing.Size(397, 191);
             this.tabControl1.TabIndex = 0;
             // 
             // bt_Add
             // 
-            this.bt_Add.Location = new System.Drawing.Point(6, 27);
+            this.bt_Add.Location = new System.Drawing.Point(4, 22);
+            this.bt_Add.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt_Add.Name = "bt_Add";
-            this.bt_Add.Size = new System.Drawing.Size(190, 44);
+            this.bt_Add.Size = new System.Drawing.Size(142, 36);
             this.bt_Add.TabIndex = 2;
             this.bt_Add.Text = "Add";
             this.bt_Add.UseVisualStyleBackColor = true;
@@ -64,17 +66,18 @@ namespace WeatherApplication
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(287, 253);
+            this.listBox1.Location = new System.Drawing.Point(215, 206);
+            this.listBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(251, 132);
+            this.listBox1.Size = new System.Drawing.Size(189, 108);
             this.listBox1.TabIndex = 4;
             // 
             // bt_Remove
             // 
-            this.bt_Remove.Location = new System.Drawing.Point(287, 390);
+            this.bt_Remove.Location = new System.Drawing.Point(215, 317);
+            this.bt_Remove.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt_Remove.Name = "bt_Remove";
-            this.bt_Remove.Size = new System.Drawing.Size(251, 44);
+            this.bt_Remove.Size = new System.Drawing.Size(188, 36);
             this.bt_Remove.TabIndex = 5;
             this.bt_Remove.Text = "Remove Observer";
             this.bt_Remove.UseVisualStyleBackColor = true;
@@ -83,9 +86,10 @@ namespace WeatherApplication
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(202, 40);
+            this.checkBox1.Location = new System.Drawing.Point(152, 32);
+            this.checkBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(70, 21);
+            this.checkBox1.Size = new System.Drawing.Size(56, 17);
             this.checkBox1.TabIndex = 6;
             this.checkBox1.Text = "Push?";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -94,9 +98,11 @@ namespace WeatherApplication
             // 
             this.groupBox1.Controls.Add(this.bt_Add);
             this.groupBox1.Controls.Add(this.checkBox1);
-            this.groupBox1.Location = new System.Drawing.Point(3, 253);
+            this.groupBox1.Location = new System.Drawing.Point(2, 206);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(278, 100);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(208, 81);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Add Observer";
@@ -104,9 +110,10 @@ namespace WeatherApplication
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(106, 390);
+            this.label1.Location = new System.Drawing.Point(80, 317);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 17);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 8;
             this.label1.Text = "label1";
             // 
@@ -117,16 +124,17 @@ namespace WeatherApplication
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(550, 446);
+            this.ClientSize = new System.Drawing.Size(412, 362);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.bt_Remove);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.tabControl1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Weather Application";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
