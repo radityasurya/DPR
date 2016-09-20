@@ -61,9 +61,11 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.lblVW);
             this.groupBox1.Controls.Add(this.pictureBox1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Location = new System.Drawing.Point(9, 10);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(788, 300);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(591, 244);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Volkswagen";
@@ -73,9 +75,11 @@
             this.groupBox3.Controls.Add(this.chkTires_VW);
             this.groupBox3.Controls.Add(this.chkGPS_VW);
             this.groupBox3.Controls.Add(this.chkAir_VW);
-            this.groupBox3.Location = new System.Drawing.Point(432, 66);
+            this.groupBox3.Location = new System.Drawing.Point(324, 54);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(271, 133);
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox3.Size = new System.Drawing.Size(203, 108);
             this.groupBox3.TabIndex = 4;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Accessories";
@@ -83,9 +87,10 @@
             // chkTires_VW
             // 
             this.chkTires_VW.AutoSize = true;
-            this.chkTires_VW.Location = new System.Drawing.Point(17, 75);
+            this.chkTires_VW.Location = new System.Drawing.Point(13, 61);
+            this.chkTires_VW.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkTires_VW.Name = "chkTires_VW";
-            this.chkTires_VW.Size = new System.Drawing.Size(100, 21);
+            this.chkTires_VW.Size = new System.Drawing.Size(79, 17);
             this.chkTires_VW.TabIndex = 2;
             this.chkTires_VW.Text = "Snow Tires";
             this.chkTires_VW.UseVisualStyleBackColor = true;
@@ -94,9 +99,10 @@
             // chkGPS_VW
             // 
             this.chkGPS_VW.AutoSize = true;
-            this.chkGPS_VW.Location = new System.Drawing.Point(17, 48);
+            this.chkGPS_VW.Location = new System.Drawing.Point(13, 39);
+            this.chkGPS_VW.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkGPS_VW.Name = "chkGPS_VW";
-            this.chkGPS_VW.Size = new System.Drawing.Size(59, 21);
+            this.chkGPS_VW.Size = new System.Drawing.Size(48, 17);
             this.chkGPS_VW.TabIndex = 1;
             this.chkGPS_VW.Text = "GPS";
             this.chkGPS_VW.UseVisualStyleBackColor = true;
@@ -105,9 +111,10 @@
             // chkAir_VW
             // 
             this.chkAir_VW.AutoSize = true;
-            this.chkAir_VW.Location = new System.Drawing.Point(17, 21);
+            this.chkAir_VW.Location = new System.Drawing.Point(13, 17);
+            this.chkAir_VW.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkAir_VW.Name = "chkAir_VW";
-            this.chkAir_VW.Size = new System.Drawing.Size(64, 21);
+            this.chkAir_VW.Size = new System.Drawing.Size(51, 17);
             this.chkAir_VW.TabIndex = 0;
             this.chkAir_VW.Text = "AirCo";
             this.chkAir_VW.UseVisualStyleBackColor = true;
@@ -115,17 +122,19 @@
             // 
             // tb_VW
             // 
-            this.tb_VW.Location = new System.Drawing.Point(479, 239);
+            this.tb_VW.Location = new System.Drawing.Point(359, 194);
+            this.tb_VW.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_VW.Name = "tb_VW";
-            this.tb_VW.Size = new System.Drawing.Size(215, 22);
+            this.tb_VW.Size = new System.Drawing.Size(162, 20);
             this.tb_VW.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(429, 239);
+            this.label3.Location = new System.Drawing.Point(322, 194);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 17);
+            this.label3.Size = new System.Drawing.Size(34, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Price:";
             // 
@@ -133,17 +142,19 @@
             // 
             this.lblVW.AutoSize = true;
             this.lblVW.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVW.Location = new System.Drawing.Point(530, 18);
+            this.lblVW.Location = new System.Drawing.Point(398, 15);
+            this.lblVW.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblVW.Name = "lblVW";
-            this.lblVW.Size = new System.Drawing.Size(93, 32);
+            this.lblVW.Size = new System.Drawing.Size(70, 26);
             this.lblVW.TabIndex = 1;
             this.lblVW.Text = "label1";
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(6, 21);
+            this.pictureBox1.Location = new System.Drawing.Point(4, 17);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(417, 273);
+            this.pictureBox1.Size = new System.Drawing.Size(313, 222);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -154,9 +165,11 @@
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Controls.Add(this.lblFord);
             this.groupBox2.Controls.Add(this.pictureBox2);
-            this.groupBox2.Location = new System.Drawing.Point(12, 318);
+            this.groupBox2.Location = new System.Drawing.Point(9, 258);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(788, 300);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Size = new System.Drawing.Size(591, 244);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Ford";
@@ -166,9 +179,11 @@
             this.groupBox4.Controls.Add(this.chkTires_Ford);
             this.groupBox4.Controls.Add(this.chkGPS_Ford);
             this.groupBox4.Controls.Add(this.chkAir_Ford);
-            this.groupBox4.Location = new System.Drawing.Point(432, 79);
+            this.groupBox4.Location = new System.Drawing.Point(324, 64);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(271, 133);
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox4.Size = new System.Drawing.Size(203, 108);
             this.groupBox4.TabIndex = 5;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Accessories";
@@ -176,9 +191,10 @@
             // chkTires_Ford
             // 
             this.chkTires_Ford.AutoSize = true;
-            this.chkTires_Ford.Location = new System.Drawing.Point(17, 75);
+            this.chkTires_Ford.Location = new System.Drawing.Point(13, 61);
+            this.chkTires_Ford.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkTires_Ford.Name = "chkTires_Ford";
-            this.chkTires_Ford.Size = new System.Drawing.Size(100, 21);
+            this.chkTires_Ford.Size = new System.Drawing.Size(79, 17);
             this.chkTires_Ford.TabIndex = 2;
             this.chkTires_Ford.Text = "Snow Tires";
             this.chkTires_Ford.UseVisualStyleBackColor = true;
@@ -187,9 +203,10 @@
             // chkGPS_Ford
             // 
             this.chkGPS_Ford.AutoSize = true;
-            this.chkGPS_Ford.Location = new System.Drawing.Point(17, 48);
+            this.chkGPS_Ford.Location = new System.Drawing.Point(13, 39);
+            this.chkGPS_Ford.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkGPS_Ford.Name = "chkGPS_Ford";
-            this.chkGPS_Ford.Size = new System.Drawing.Size(59, 21);
+            this.chkGPS_Ford.Size = new System.Drawing.Size(48, 17);
             this.chkGPS_Ford.TabIndex = 1;
             this.chkGPS_Ford.Text = "GPS";
             this.chkGPS_Ford.UseVisualStyleBackColor = true;
@@ -198,9 +215,10 @@
             // chkAir_Ford
             // 
             this.chkAir_Ford.AutoSize = true;
-            this.chkAir_Ford.Location = new System.Drawing.Point(17, 21);
+            this.chkAir_Ford.Location = new System.Drawing.Point(13, 17);
+            this.chkAir_Ford.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.chkAir_Ford.Name = "chkAir_Ford";
-            this.chkAir_Ford.Size = new System.Drawing.Size(64, 21);
+            this.chkAir_Ford.Size = new System.Drawing.Size(51, 17);
             this.chkAir_Ford.TabIndex = 0;
             this.chkAir_Ford.Text = "AirCo";
             this.chkAir_Ford.UseVisualStyleBackColor = true;
@@ -208,17 +226,19 @@
             // 
             // tb_Ford
             // 
-            this.tb_Ford.Location = new System.Drawing.Point(479, 245);
+            this.tb_Ford.Location = new System.Drawing.Point(359, 199);
+            this.tb_Ford.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_Ford.Name = "tb_Ford";
-            this.tb_Ford.Size = new System.Drawing.Size(215, 22);
+            this.tb_Ford.Size = new System.Drawing.Size(162, 20);
             this.tb_Ford.TabIndex = 4;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(429, 248);
+            this.label1.Location = new System.Drawing.Point(322, 202);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 17);
+            this.label1.Size = new System.Drawing.Size(34, 13);
             this.label1.TabIndex = 3;
             this.label1.Text = "Price:";
             // 
@@ -226,29 +246,32 @@
             // 
             this.lblFord.AutoSize = true;
             this.lblFord.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFord.Location = new System.Drawing.Point(530, 21);
+            this.lblFord.Location = new System.Drawing.Point(398, 17);
+            this.lblFord.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblFord.Name = "lblFord";
-            this.lblFord.Size = new System.Drawing.Size(93, 32);
+            this.lblFord.Size = new System.Drawing.Size(70, 26);
             this.lblFord.TabIndex = 2;
             this.lblFord.Text = "label2";
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(6, 21);
+            this.pictureBox2.Location = new System.Drawing.Point(4, 17);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(420, 273);
+            this.pictureBox2.Size = new System.Drawing.Size(315, 222);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(807, 624);
+            this.ClientSize = new System.Drawing.Size(605, 507);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "AutoShop";
             this.Shown += new System.EventHandler(this.Form1_Shown);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
