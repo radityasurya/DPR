@@ -18,7 +18,6 @@ namespace Game
             comboBox1.Items.Add("Minion");
             comboBox1.SelectedIndex = 0;
             game = new GenericGame(this);
-            WindowState = FormWindowState.Maximized;
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -5,11 +5,12 @@ using Game.Properties;
 
 namespace Game.Classes.Minion
 {
-    class FoodMinion : IFood
+    public class FoodMinion : IFood
     {
         public PictureBox pic;
         private Form1 Form;
 
+        public FoodMinion() { }
         public FoodMinion(Form1 form)
         {
             pic = new PictureBox();

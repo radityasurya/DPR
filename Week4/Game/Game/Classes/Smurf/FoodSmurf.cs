@@ -5,11 +5,12 @@ using Game.Properties;
 
 namespace Game.Classes.Smurf
 {
-    class FoodSmurf : IFood
+    public class FoodSmurf : IFood
     {
         public PictureBox pic;
         private Form1 Form;
 
+        public FoodSmurf() { }
         public FoodSmurf(Form1 form)
         {
             pic = new PictureBox();

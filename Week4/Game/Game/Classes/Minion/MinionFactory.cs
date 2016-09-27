@@ -2,7 +2,7 @@
 
 namespace Game.Classes.Minion
 {
-    class MinionFactory : IFactory
+    public class MinionFactory : IFactory
     {
         public IFigure createFigure(Form1 form)
         {

@@ -7,13 +7,14 @@ using Game.Properties;
 
 namespace Game.Classes.Minion
 {
-    class Minion : IFigure
+    public class Minion : IFigure
     {
         private PictureBox pic;
         private Form1 Form;
         private Timer timer;
         private int X;
 
+        public Minion() { }
         public Minion(Form1 form)
         {
             pic = new PictureBox();

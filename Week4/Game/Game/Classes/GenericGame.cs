@@ -13,6 +13,7 @@ namespace Game.Classes
         private IFood food;
         private IHouse house;
 
+        public GenericGame() { }
         public GenericGame(Form1 form)
         {
             Form = form;

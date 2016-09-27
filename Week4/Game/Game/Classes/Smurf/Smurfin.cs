@@ -6,12 +6,13 @@ using WMPLib;
 
 namespace Game.Classes.Smurf
 {
-    class Smurfin : IFemale
+    public class Smurfin : IFemale
     {
         public PictureBox pic;
         private Form1 Form;
         private WindowsMediaPlayer wplayer = new WindowsMediaPlayer();
 
+        public Smurfin() { }
         public Smurfin(Form1 form)
         {
             pic = new PictureBox();

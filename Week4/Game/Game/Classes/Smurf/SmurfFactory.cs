@@ -2,7 +2,7 @@
 
 namespace Game.Classes.Smurf
 {
-    class SmurfFactory : IFactory
+    public class SmurfFactory : IFactory
     {
         public IFigure createFigure(Form1 form)
         {

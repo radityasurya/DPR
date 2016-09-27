@@ -6,11 +6,12 @@ using Game.Properties;
 
 namespace Game.Classes.Smurf
 {
-    class HouseSmurf : IHouse
+    public class HouseSmurf : IHouse
     {
         public PictureBox pic;
         private Form1 Form;
 
+        public HouseSmurf() { }
         public HouseSmurf(Form1 form)
         {
             pic = new PictureBox();

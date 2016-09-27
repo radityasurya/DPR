@@ -6,11 +6,12 @@ using Game.Properties;
 
 namespace Game.Classes.Minion
 {
-    class HouseMinion : IHouse
+    public class HouseMinion : IHouse
     {
         public PictureBox pic;
         private Form1 Form;
 
+        public HouseMinion() { }
         public HouseMinion(Form1 form)
         {
             pic = new PictureBox();

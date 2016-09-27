@@ -7,12 +7,13 @@ using WMPLib;
 
 namespace Game.Classes.Minion
 {
-    class MinionFemale : IFemale
+    public class MinionFemale : IFemale
     {
         private WindowsMediaPlayer wplayer = new WindowsMediaPlayer();
         public PictureBox pic;
         private Form1 Form;
 
+        public MinionFemale() { }
         public MinionFemale(Form1 form)
         {
             pic = new PictureBox

@@ -5,13 +5,14 @@ using Game.Properties;
 
 namespace Game.Classes.Smurf
 {
-    class Smurf : IFigure
+    public class Smurf : IFigure
     {
         private PictureBox pic;
         private Form1 Form;
         private Timer timer;
         private int X = 0;
 
+        public Smurf() { }
         public Smurf(Form1 form)
         {
             pic = new PictureBox();
