@@ -131,6 +131,27 @@
   <ItemGroup>
     <None Include="bin\Debug\MinionFemale.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\animated-pizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HouseMinion.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\minion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MinionFemale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\Smurf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\Smurffette.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SmurfHouse.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
