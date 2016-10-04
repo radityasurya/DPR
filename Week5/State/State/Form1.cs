@@ -61,7 +61,7 @@ namespace State
             CheckState(ctxt);
         }
 
-        private void CheckState(Context cxt)
+        public void CheckState(Context cxt)
         {
             if (cxt.getState() is StateDeposit)
             {
