@@ -16,7 +16,7 @@ namespace Facade.subsystem
             hotels = new List<Hotel>();
         }
 
-        public void generate(DateTime from, DateTime to)
+        private void generate(DateTime from, DateTime to)
         {
             hotels.Clear();
 

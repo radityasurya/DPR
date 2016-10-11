@@ -16,7 +16,7 @@ namespace Facade.subsystem
             flights = new List<Flight>();
         }
 
-        public void generate(DateTime from, DateTime to)
+        private void generate(DateTime from, DateTime to)
         {
             flights.Clear();
 
@@ -47,7 +47,7 @@ namespace Facade.subsystem
             }
         }
 
-        public string toChar(int i)
+        private string toChar(int i)
         {
             string s = "";
 
